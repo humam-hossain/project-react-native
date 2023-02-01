@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "project-react-native",
+    "name": "To Do",
     "slug": "project-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/goal.png",
     "userInterfaceStyle": "light",
     "backgroundColor": "#1e085a",
     "splash": {
